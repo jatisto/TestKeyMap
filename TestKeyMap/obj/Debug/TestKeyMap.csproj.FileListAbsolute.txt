@@ -1,0 +1,12 @@
+D:\MailCloud\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\bin\Debug\TestKeyMap.exe
+D:\MailCloud\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\bin\Debug\TestKeyMap.pdb
+D:\MailCloud\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\obj\Debug\TestKeyMap.csprojResolveAssemblyReference.cache
+D:\MailCloud\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\obj\Debug\TestKeyMap.csproj.CoreCompileInputs.cache
+D:\MailCloud\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\obj\Debug\TestKeyMap.exe
+D:\MailCloud\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\obj\Debug\TestKeyMap.pdb
+D:\MailCloud#NOUT\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\bin\Debug\TestKeyMap.exe
+D:\MailCloud#NOUT\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\bin\Debug\TestKeyMap.pdb
+D:\MailCloud#NOUT\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\obj\Debug\TestKeyMap.csprojAssemblyReference.cache
+D:\MailCloud#NOUT\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\obj\Debug\TestKeyMap.csproj.CoreCompileInputs.cache
+D:\MailCloud#NOUT\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\obj\Debug\TestKeyMap.exe
+D:\MailCloud#NOUT\C#\Rider_Project_JetBrains_C#\TestKeyMap\TestKeyMap\obj\Debug\TestKeyMap.pdb
